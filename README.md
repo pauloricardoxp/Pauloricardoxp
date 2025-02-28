@@ -71,6 +71,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
     src="https://github-readme-stats.vercel.app/api?username=pauloricardoxp&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
 
+
 <img 
       align ="left" 
       alt="GitHub Stats" 

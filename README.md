@@ -3,7 +3,7 @@
 **`Futuro Desenvolvedor`**
 
 **Olá, sou Paulo Ricardo 👋**
-Sou estudante de Ciências da Computação na Nova Roma Recife, com 18 anos e natural de Pernambuco. Tenho grande interesse por tecnologia e estou me dedicando a aprender novos conhecimentos na área da programação.
+Sou estudante de Ciências da Computação na Nova Roma Recife, tenho 18 anos e natural de Pernambuco. Tenho grande interesse por tecnologia e estou me dedicando a aprender novos conhecimentos na área da programação.
 
 ---
 

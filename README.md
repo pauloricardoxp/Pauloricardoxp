@@ -1,15 +1,15 @@
-# Paulo Ricardo
+Paulo Ricardo
 
 Desenvolvedor Full Stack em formação · React · Node.js · Java · TypeScript · APIs REST
 
 ---
 
-## Sobre mim
+# Sobre mim
 
-Estudante de Ciências da Computação na Nova Roma Recife, com foco em desenvolvimento fullstack. Tenho experiência no ciclo completo de desenvolvimento — do front-end com React e TypeScript até APIs RESTful com Node.js, Fastify e Java.
+Estudante de Ciências da Computação, com foco em desenvolvimento fullstack. Tenho experiência no ciclo completo de desenvolvimento — do front-end com React e TypeScript até APIs RESTful com Node.js, Fastify e Java.
 ---
 
-## Stack principal
+# Stack principal
 
 **Front-end**
 
@@ -37,9 +37,9 @@ Estudante de Ciências da Computação na Nova Roma Recife, com foco em desenvol
 
 ---
 
-## Projetos em destaque
+# Projetos em destaque
 
-### ⚽ FutSpace `Full Stack`
+# ⚽ FutSpace `Full Stack`
 
 Plataforma completa para gerenciamento de partidas de futebol amador — da criação da pelada até o resumo pós-jogo com MVP e top scorers.
 
@@ -50,7 +50,7 @@ Plataforma completa para gerenciamento de partidas de futebol amador — da cria
 
 Tecnologias: `Node.js` `Fastify` `TypeScript` `React` `Prisma` `PostgreSQL` `JWT` `Tailwind CSS`
 
-### 🖥 UpTrade Marketplace `Full Stack`
+## 🖥 UpTrade Marketplace `Full Stack`
 
 Marketplace de trocas de componentes de hardware — CPUs, GPUs, memória e mais. Usuários criam anúncios, buscam produtos e negociam via chat.
 

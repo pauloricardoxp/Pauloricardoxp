@@ -4,12 +4,13 @@ Desenvolvedor Full Stack em formação · React · Node.js · Java · TypeScript
 
 ---
 
-# Sobre mim
+## Sobre mim
 
-Estudante de Ciências da Computação, com foco em desenvolvimento fullstack. Tenho experiência no ciclo completo de desenvolvimento — do front-end com React e TypeScript até APIs RESTful com Node.js, Fastify e Java.
+<sub>Estudante de Ciências da Computação, com foco em desenvolvimento fullstack. Tenho experiência no ciclo completo de desenvolvimento — do front-end com React e TypeScript até APIs RESTful com Node.js, Fastify e Java.</sub>
+
 ---
 
-# Stack principal
+## Stack principal
 
 **Front-end**
 
@@ -37,11 +38,11 @@ Estudante de Ciências da Computação, com foco em desenvolvimento fullstack. T
 
 ---
 
-# Projetos em destaque
+## Projetos em destaque
 
-# ⚽ FutSpace `Full Stack`
+### ⚽ FutSpace `Full Stack`
 
-Plataforma completa para gerenciamento de partidas de futebol amador — da criação da pelada até o resumo pós-jogo com MVP e top scorers.
+<sub>Plataforma completa para gerenciamento de partidas de futebol amador — da criação da pelada até o resumo pós-jogo com MVP e top scorers.</sub>
 
 - API REST com Fastify + TypeScript, arquitetura em camadas (Controller → Service → Repository)
 - Sorteio automático de times, registro de gols/assistências e placar em tempo real
@@ -50,15 +51,15 @@ Plataforma completa para gerenciamento de partidas de futebol amador — da cria
 
 Tecnologias: `Node.js` `Fastify` `TypeScript` `React` `Prisma` `PostgreSQL` `JWT` `Tailwind CSS`
 
-## 🖥 UpTrade Marketplace `Full Stack`
+### 🖥 UpTrade Marketplace `Full Stack`
 
-Marketplace de trocas de componentes de hardware — CPUs, GPUs, memória e mais. Usuários criam anúncios, buscam produtos e negociam via chat.
+<sub>Marketplace de trocas de componentes de hardware — CPUs, GPUs, memória e mais. Usuários criam anúncios, buscam produtos e negociam via chat.</sub>
 
 - Autenticação segura com JWT + bcrypt e autorização por middleware
 - CRUD completo de anúncios com filtros e upload de imagens via Cloudinary
 - Sistema de chat entre usuários e gerenciamento de perfil
 - Documentação automática com Swagger/Scalar e validação com JSON schemas
 
-Tecnologias: `Node.js` `Fastify` `TypeScript` `React` `Prisma` `MySQL` `JWT` 
+Tecnologias: `Node.js` `Fastify` `TypeScript` `React` `Prisma` `MySQL` `JWT`
 
 ---

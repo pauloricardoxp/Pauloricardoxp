@@ -6,7 +6,7 @@ Desenvolvedor Full Stack em formação · React · Node.js · Java · TypeScript
 
 ## Sobre mim
 
-<sub>Estudante de Ciências da Computação, com foco em desenvolvimento fullstack. Tenho experiência no ciclo completo de desenvolvimento — do front-end com React e TypeScript até APIs RESTful com Node.js, Fastify e Java.</sub>
+Estudante de Ciências da Computação, com foco em desenvolvimento fullstack. Tenho experiência no ciclo completo de desenvolvimento — do front-end com React e TypeScript até APIs RESTful com Node.js, Fastify e Java.
 
 ---
 
@@ -42,7 +42,7 @@ Desenvolvedor Full Stack em formação · React · Node.js · Java · TypeScript
 
 ### ⚽ FutSpace `Full Stack`
 
-<sub>Plataforma completa para gerenciamento de partidas de futebol amador — da criação da pelada até o resumo pós-jogo com MVP e top scorers.</sub>
+Plataforma completa para gerenciamento de partidas de futebol amador — da criação da pelada até o resumo pós-jogo com MVP e top scorers.
 
 - API REST com Fastify + TypeScript, arquitetura em camadas (Controller → Service → Repository)
 - Sorteio automático de times, registro de gols/assistências e placar em tempo real
@@ -53,7 +53,7 @@ Tecnologias: `Node.js` `Fastify` `TypeScript` `React` `Prisma` `PostgreSQL` `JWT
 
 ### 🖥 UpTrade Marketplace `Full Stack`
 
-<sub>Marketplace de trocas de componentes de hardware — CPUs, GPUs, memória e mais. Usuários criam anúncios, buscam produtos e negociam via chat.</sub>
+Marketplace de trocas de componentes de hardware — CPUs, GPUs, memória e mais. Usuários criam anúncios, buscam produtos e negociam via chat.
 
 - Autenticação segura com JWT + bcrypt e autorização por middleware
 - CRUD completo de anúncios com filtros e upload de imagens via Cloudinary
